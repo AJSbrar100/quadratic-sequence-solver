@@ -6,7 +6,7 @@ The difference method -
 Suppose you have the quadtratic sequence - -1, 5, 15, 29, 47
 
 You find the differences like this - 
-1st term-        -1   5   15   29   47
+1st term-				 -1   5   15   29   47
 1st common dif-     6   10   14   18
 2nd common dif-       4    4    4 
 
